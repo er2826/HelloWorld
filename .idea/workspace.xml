@@ -26,6 +26,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/HelloWorld-master/HelloWorld-master" />
   </component>
   <component name="RunManager">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -69,6 +70,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="760" y="95" key="FileChooserDialogImpl" timestamp="1586250163846">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="760" y="95" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1586250163846" />
     <state width="577" height="163" key="GridCell.Tab.0.bottom" timestamp="1585976359976">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
