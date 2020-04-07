@@ -8,3 +8,7 @@ print(message)
 
 def greeting():
     print("Find you")
+
+
+def goodbye():
+    print("Goodbye")
