@@ -1,3 +1,4 @@
+# This is my first python project!
 first = 'John'
 last = 'Smith'
 message = first +'[' + last + '] is a coder'
